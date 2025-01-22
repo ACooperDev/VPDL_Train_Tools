@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<Views>
+   <View view_id="bad_defect (1).png">
+      <Pos_x>255,0</Pos_x>
+      <Pos_y>258,1</Pos_y>
+      <Angle>0,34732052115</Angle>
+      <Width>194,1</Width>
+      <Height>232,6</Height>
+   </View>
+   <View view_id="bad_defect (4).png">
+      <Pos_x>255,8</Pos_x>
+      <Pos_y>262,8</Pos_y>
+      <Angle>-1,0367255757</Angle>
+      <Width>185,1</Width>
+      <Height>238,6</Height>
+   </View>
+      <View view_id="bad_defect (5).png">
+      <Pos_x>262,2</Pos_x>
+      <Pos_y>252,3</Pos_y>
+      <Angle> 2,9583330821</Angle>
+      <Width>184,1</Width>
+      <Height>230,5</Height>
+   </View>
+   <View view_id="bad_defect (6).png">
+      <Pos_x>250,8</Pos_x>
+      <Pos_y>256,5</Pos_y>
+      <Angle>0,66846110351</Angle>
+      <Width>181,6</Width>
+      <Height>231,7</Height>
+   </View>
+   <View view_id="bad_defect (9).png">
+      <Pos_x>253,5</Pos_x>
+      <Pos_y>257,7</Pos_y>
+      <Angle>2,583087293</Angle>
+      <Width>201</Width>
+      <Height>230,1</Height>
+   </View>
+   <View view_id="bad_defect (10).png">
+      <Pos_x>251,9</Pos_x>
+      <Pos_y>259,2</Pos_y>
+      <Angle>0,33684854563</Angle>
+      <Width>187,3</Width>
+      <Height>234,5</Height>
+   </View>
+      <View view_id="bad_defect (13).png">
+      <Pos_x>262,6</Pos_x>
+      <Pos_y>253,5</Pos_y>
+      <Angle>-3,10319541</Angle>
+      <Width>183,1</Width>
+      <Height>229,8</Height>
+   </View>
+   <View view_id="bad_defect (14).png">
+      <Pos_x>261,3</Pos_x>
+      <Pos_y>257,5</Pos_y>
+      <Angle>-2,0996310901</Angle>
+      <Width>194,3</Width>
+      <Height>230,1</Height>
+   </View>
+      <View view_id="bad_defect (16).png">
+      <Pos_x>258,5</Pos_x>
+      <Pos_y>257,5</Pos_y>
+      <Angle>-1,1728612573</Angle>
+      <Width>190</Width>
+      <Height>232,5</Height>
+   </View>
+   <View view_id="bad_defect (18).png">
+      <Pos_x>262,5</Pos_x>
+      <Pos_y>258,6</Pos_y>
+      <Angle>-2,40331838</Angle>
+      <Width>188,6</Width>
+      <Height>231,7</Height>
+   </View>
+      <View view_id="bad_defect (19).png">
+      <Pos_x>255,6</Pos_x>
+      <Pos_y>250,2</Pos_y>
+      <Angle>1,6039575826</Angle>
+      <Width>183,8</Width>
+      <Height>232,3</Height>
+   </View>
+</Views>
