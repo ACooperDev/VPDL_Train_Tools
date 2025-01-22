@@ -256,7 +256,7 @@ namespace ToolChainTraining
                     myWorkspace.Close();
                     myControl.Dispose();
                 }
-            }
+            } 
         }
     }
 }
